@@ -1,7 +1,6 @@
 # Churn modelling with logistic regression and ANN
 
-Churn rate is calculated by dividing the number of customer cancellations 
-within a time period by the number of active customers at the start of that period.
+The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. 
 
 This dataset contains details of a bank's customers, 
 with one column being a binary variable reflecting if the customer left the bank (closed his account).
