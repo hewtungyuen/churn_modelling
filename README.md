@@ -1,4 +1,4 @@
-# Churn modelling with logistic regression and ANN
+# Churn modelling with logistic regression 
 
 The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. 
 
